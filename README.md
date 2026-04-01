@@ -4,7 +4,7 @@
 A modern, desktop-based BMI (Body Mass Index) Calculator built using C# and Windows Forms. This application provides a user-friendly interface to calculate health metrics with real-time UI feedback based on the results.
 
 ## Features
-**BMI Calculation**: Accurate calculation using the standard metric formula:`$$BMI = \frac{weight(kg)}{height(m)^2}$$`
+**BMI Calculation**: Accurate calculation using the standard metric formula:`BMI = Weight (kg) ÷ [Height (m)]²`
 
 **Modern UI Styling**:Utilizes Windows API (Gdi32.dll) to create smooth, rounded corners for UI elements.
 
