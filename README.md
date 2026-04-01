@@ -5,12 +5,13 @@ A modern, desktop-based BMI (Body Mass Index) Calculator built using C# and Wind
 
 ## Features
 **BMI Calculation**: Accurate calculation using the standard metric formula:`$$BMI = \frac{weight(kg)}{height(m)^2}$$`
+
 **Modern UI Styling**:Utilizes Windows API (Gdi32.dll) to create smooth, rounded corners for UI elements.
+
 **Dynamic Visual Feedback**:1.Automatically classifies results into Underweight, Healthy, Overweight, and various Obesity levels.
                             2.The result background color changes based on the health category.
                             3.Automatically adjusts text color (Black or White) based on the background's brightness to ensure readability.
 ## Screenshots
-Assignments will be periodically provided to reinforce the concepts covered in class. These may include programming tasks, problem-solving exercises, and written reports. Submission deadlines will be strictly enforced. Refer to the [Assignment Guidelines](Assignment/README.md) for details.
 
-## Quizzes
-Quizzes will be conducted periodically to assess s
+![screenshot](./BMI.png)
+
